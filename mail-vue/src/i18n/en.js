@@ -336,7 +336,16 @@ const en = {
     searchUser: 'Search by user',
     searchEmail: 'Search by Email',
     searchSender: 'Search by Sender',
-    userEmail: 'Email Address'
+    userEmail: 'Email Address',
+    oauthLoading: 'Signing in...',
+    bindEmailTitle: 'Bind Email',
+    bindBtn: 'Bind',
+    bindEmailMsg: 'Please register an email to bind',
+    linuxdoUsername: 'Username: ',
+    linuxdoTrustLevel: 'Level: ',
+    langChinese: 'Chinese',
+    analysisSender: 'Sender',
+    analysisEmail: 'Email',
 }
 
 export default en
