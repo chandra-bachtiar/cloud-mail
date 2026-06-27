@@ -212,7 +212,6 @@ function formatExpireTime(expireTime) {
       ? expireDate.format('MMM D')
       : expireDate.format('MMM D, YYYY');
 }
-}
 
 function refresh() {
   params.code = null
